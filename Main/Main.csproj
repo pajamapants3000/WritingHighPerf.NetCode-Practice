@@ -43,7 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DisposableClass.cs" />
+    <Compile Include="IPoolableObject.cs" />
     <Compile Include="MemoryStream.cs" />
+    <Compile Include="PoolManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
